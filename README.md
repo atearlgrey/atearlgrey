@@ -115,8 +115,13 @@ Major: *Software Engineering* (2015 – 2019)
 ---
 
 ### 📊 GitHub Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atearlgrey&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atearlgrey&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atearlgrey&layout=compact&theme=radical)
+
+![Repositories Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atearlgrey&theme=radical)
+![Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atearlgrey&theme=radical)
 
 ---
 
